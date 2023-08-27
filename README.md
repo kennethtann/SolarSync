@@ -1,4 +1,4 @@
-![logo](Solar_Sync_Logo_White.png)
+![logo](Solar_Sync_Logo.png)
 
 # SolarSync
 ### _The next-generation solar energy solution_
