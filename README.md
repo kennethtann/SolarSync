@@ -1,4 +1,4 @@
-![logo](the_traveller_logo.png)
+![logo](Solar_Sync_Logo_White.png)
 
 # SolarSync
 ### _The next-generation solar energy solution_
